@@ -14,7 +14,7 @@ MingW安装简单（推荐）
 
 MSY32较为复杂
 
-# 1.2 MingW教程
+## 1.2 MingW教程
 
 点击**[MingW-W64-builds](https://www.mingw-w64.org/downloads/#mingw-builds)**
 
@@ -50,7 +50,7 @@ MSY32较为复杂
 
 ![屏幕截图 2022-08-01 141806.png](https://s2.loli.net/2022/08/01/86s35IXPfKOdjuB.png)
 
-# 1.3 msys2部署
+## 1.3 msys2部署
 
 点击MinGW官网下的[MSYS2](https://www.mingw-w64.org/downloads/#msys2)
 
