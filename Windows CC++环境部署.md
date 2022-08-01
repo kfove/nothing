@@ -2,7 +2,7 @@
 
 ## 1.1 打开MinGW官网
 
-* 注意，vs是不用的，vscode有时会自带不用部署
+* 一般来说是不用部署的，一般像vs都会集成,所以叫ide(集成开发环境)，除了一些特殊的，比如vim
 
 打开[官网下载页](https://www.mingw-w64.org/downloads/)
 
