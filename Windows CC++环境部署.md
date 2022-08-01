@@ -79,9 +79,9 @@ pacman -Syu
 ![](https://files.catbox.moe/kmmd4p.png)
 
 再次输入
-
+'''
 pacman -Syu
-
+'''
 提示直接回车，等待拉取包完成
 
 输入
